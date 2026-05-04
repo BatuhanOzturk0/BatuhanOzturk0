@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, I'm Batuhan 👋
 
-<!--
-**BatuhanOzturk0/BatuhanOzturk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. Computer Science @ GISMA University of Applied Sciences, Berlin  
+⚡ Embedded Systems & Real-Time Signal Processing Engineer  
+🎯 Focused on ARM Cortex-M, FreeRTOS, CMSIS-DSP  
+📍 Berlin, Germany  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages:** Embedded C, Python, MATLAB  
+- **Hardware:** STM32 / ARM Cortex-M, MPU9250  
+- **RTOS:** FreeRTOS (scheduling, semaphores, queues)  
+- **Protocols:** CAN, SPI, I2C, UART, DMA  
+- **DSP:** FIR/IIR Filters, FFT (CMSIS-DSP), RMS & Peak Detection  
+- **Tools:** STM32CubeIDE, Git, MATLAB/Simulink  
+
+---
+
+### 🚀 Current Focus
+- 📌 M.Sc. Thesis: *Real-Time DSP Pipeline on STM32 using FreeRTOS & CMSIS-DSP*
+- 📌 Building embedded portfolio projects toward defense & aerospace industry
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/batuhannozturkk0)
